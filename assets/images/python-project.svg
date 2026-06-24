@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Python App</title>
+  <desc id="desc">Automation and data tooling</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4338ca"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="30%" cy="25%" r="70%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect width="1200" height="800" fill="url(#glow)"/>
+  <circle cx="950" cy="145" r="130" fill="#8b5cf6" opacity="0.18"/>
+  <circle cx="145" cy="675" r="190" fill="#ffffff" opacity="0.08"/>
+  <rect x="120" y="120" width="960" height="560" rx="42" fill="#ffffff" opacity="0.11"/>
+  <rect x="170" y="170" width="420" height="24" rx="12" fill="#ffffff" opacity="0.42"/>
+  <rect x="170" y="218" width="310" height="18" rx="9" fill="#ffffff" opacity="0.24"/>
+  <text x="170" y="400" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="800">Python App</text>
+  <text x="174" y="470" fill="#dbeafe" font-family="Inter, Arial, sans-serif" font-size="32">Automation and data tooling</text>
+  <rect x="170" y="535" width="260" height="68" rx="34" fill="#8b5cf6"/>
+  <text x="222" y="580" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">Project Preview</text>
+</svg>
